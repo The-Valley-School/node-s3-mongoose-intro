@@ -18,5 +18,9 @@
     "husky": "^8.0.0"
   },
   "author": "Fran Linde",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "mongoose": "^7.0.3"
+  }
 }
